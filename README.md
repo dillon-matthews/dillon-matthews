@@ -6,7 +6,7 @@
 <div style="max-width: 600px; margin: 0 auto; text-align: center; margin-top: -10px;">
   <p>I'm a software engineer obsessed with solving real problems.<br/>Currently building at <a href="https://findneedle.co">Needle</a>, where we're revolutionizing<br/>how people find critical medications during shortages.</p>
   
-  <p><em>Because nobody should have to call dozens of pharmacies just to find their meds.</em></p>
+  <p><em>Because nobody should have to call dozens of pharmacies every month just to find their meds.</em></p>
 
   <div style="margin-top: 20px;">
     <a href="https://findneedle.co"><img src="https://img.shields.io/badge/Building-Needle-6366F1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yMiAxMkExMCAxMCAwIDEgMSAxMiAyIiBzdHJva2U9IndoaXRlIi8+PC9zdmc+" alt="Building Needle"/></a>
