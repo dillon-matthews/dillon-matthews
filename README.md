@@ -41,7 +41,7 @@
   <p>Learn about my thoughts on tech, startups, and building products that make a difference:</p>
   
   <a href="https://dillonmatthews.com">
-    <img src="https://img.shields.io/badge/Blog-dillonmatthews.com-FF6B6B?style=for-the-badge&logo=hashnode" alt="Blog"/>
+    <img src="https://img.shields.io/badge/Site-dillonmatthews.com-FF6B6B?style=for-the-badge&logo=hashnode" alt="Site"/>
   </a>
   <a href="https://www.linkedin.com/in/dillonmatthews/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
