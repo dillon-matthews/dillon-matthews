@@ -1,10 +1,11 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=hello%20world,%20i'm%20dillon%20👾&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=hello%20world,%20i'm%20dillon%20&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-<h3 style="margin-top: -40px;">🚀 Building Things That Matter</h3>
+<h3 style="margin-top: -40px;">Building Things That Matter</h3>
 <div style="max-width: 600px; margin: 0 auto; text-align: center; margin-top: -10px;">
-  <p>I'm a software engineer obsessed with solving real problems.<br/>Currently building at <a href="https://findneedle.co">Needle</a>, where we're revolutionizing<br/>how people find critical medications during shortages.</p>
+  <p>I'm a software engineer that loves to solve real problems.
+    <br/>Currently building at <a href="https://findneedle.co">Needle</a>, where we're revolutionizing<br/>how people find critical medications during shortages.</p>
   
   <p><em>Because nobody should have to call dozens of pharmacies every month just to find their meds.</em></p>
 
@@ -15,7 +16,7 @@
 
 <img width="800px" src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=2"/>
 
-<h3>🎯 Side Quests</h3>
+<h3>Side Quests</h3>
 
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>When I'm not working on Needle, you can find me building:</p>
@@ -35,7 +36,7 @@
 
 <img width="800px" src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=2"/>
 
-<h3>🌌 Let's Connect</h3>
+<h3>Let's Connect</h3>
 
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>Learn about my thoughts on tech, startups, and building products that make a difference:</p>
