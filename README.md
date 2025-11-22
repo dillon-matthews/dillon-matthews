@@ -18,7 +18,7 @@
 <h3>Side Quests</h3>
 
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
-  <p>When I'm not working on Needle, you can find me building:</p>
+  <p>When I'm not working on Acima, you can find me building:</p>
   
   <div style="margin: 20px 0">
     <a href="https://pregs.com">
