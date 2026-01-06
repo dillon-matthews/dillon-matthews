@@ -9,7 +9,8 @@
     essential products for people underserved by traditional credit systems.</p>
 
   <div style="margin-top: 20px;">
-    <img src="https://img.shields.io/badge/Building-Acima-8BC6EC?style=for-the-badge&labelColor=4B5563" alt="Building Acima"/>
+    <a href="https://www.acima.com">
+     <img src="https://img.shields.io/badge/Building-Acima-8BC6EC?style=for-the-badge&labelColor=4B5563" alt="Acima.com"/>
   </div>
 </div>
 
