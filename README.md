@@ -27,8 +27,8 @@
   </div>
   
   <div style="margin: 10px 0">
-    <a href="https://descended.com">
-      <img src="https://img.shields.io/badge/Descended.com-Reimagining%20how%20families%20preserve%20their%20stories-D8C7A0?style=for-the-badge&labelColor=4B5563" alt="Descended.com"/>
+    <a href="https://descended.cc">
+      <img src="https://img.shields.io/badge/Descended.cc-Reimagining%20how%20families%20preserve%20their%20stories-D8C7A0?style=for-the-badge&labelColor=4B5563" alt="Descended.cc"/>
     </a>
   </div>
 </div>
