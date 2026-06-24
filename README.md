@@ -5,12 +5,12 @@
 <h3 style="margin-top: -40px;">Building Things That Matter</h3>
 <div style="max-width: 600px; margin: 0 auto; text-align: center; margin-top: -10px;">
   <p>I'm a software engineer that loves to solve real problems.<br/>
-    Currently building at <a href="https://www.acima.com/">Acima</a>, where we're improving access to<br/>
-    essential products for people underserved by traditional credit systems.</p>
+    Currently at <a href="https://www.eliteanesthesia.com/">Elite Anesthesia</a>, where we're building software that brings expert mobile<br/>
+    anesthesia to dental and medical practices - and peace of mind to their patients.</p>
 
   <div style="margin-top: 20px;">
-    <a href="https://www.acima.com">
-     <img src="https://img.shields.io/badge/Building-Acima-8BC6EC?style=for-the-badge&labelColor=4B5563" alt="Acima.com"/>
+    <a href="https://www.Eliteanesthesia.com">
+     <img src="https://img.shields.io/badge/Building-Elite Anesthesia-8BC6EC?style=for-the-badge&labelColor=4B5563" alt="Eliteanesthesia.com"/>
   </div>
 </div>
 
@@ -19,7 +19,7 @@
 <h3>Side Quests</h3>
 
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
-  <p>When I'm not working on Acima, you can find me building:</p>
+  <p>When I'm not working on Elite, you can find me building:</p>
   
   <div style="margin: 20px 0">
     <a href="https://pregs.com">
